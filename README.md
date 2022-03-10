@@ -1,6 +1,6 @@
 # Mayo
 Mayo is a basic 3D viewer inspired by FreeCad.  
-
+可以3d剪切显示
 Current features are :
 * Multi-documents support, user can open many parts in the session
 * Support of IGES/STEP/BRep formats for import/export operations
